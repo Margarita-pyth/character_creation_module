@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 test.py
-docstring.py
+test_docstring.py
+.vscode
